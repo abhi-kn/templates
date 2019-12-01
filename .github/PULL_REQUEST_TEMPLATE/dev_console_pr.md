@@ -20,11 +20,10 @@
 - [ ] Does it have any dependancies?
 <!-- Mention dependancies like PR, Defect, Prerequisite setup, application, operators, etc -->
 
-###### Is this PR tested on all browsers?
-  - [ ] Chrome
-  - [ ] Firefox
-  - [ ] Safari
-  - [ ] Edge
-  - [ ] IE
-  
- 
+## Is this PR tested on all browsers?
+
+    - [ ] Chrome
+    - [ ] Firefox
+    - [ ] Safari
+    - [ ] Edge
+    - [ ] IE
