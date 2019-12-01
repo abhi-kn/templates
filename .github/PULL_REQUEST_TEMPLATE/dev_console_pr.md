@@ -8,14 +8,23 @@
 ## Solution Description
 <!--Describe your code changes in detail and explain the solution-->
 
-[ ] Is U/X approved?
-<!-- If designer review required, add screenshots/gifs and tag @openshift/team-devconsole-ux -->
+- [ ] Is U/X approved?
+<!-- If designer review required, tag @openshift/team-devconsole-ux and add screenshots/gifs  -->
 
-[ ] Covered Unit test cases / e2e test cases? If yes, attach report else state reason for not adding.
-<!-- Were unit tests or E2E test recorded for this change, or was only manual testing applicable -->
+- [ ] Covered Unit test cases / e2e test cases? 
+<!-- Were unit tests or E2E test recorded for this change, or was only manual testing applicable. If yes, attach report else state reason for not adding.-->
 
-[ ] Does this PR need regression testing of any feature / work flow?
+- [ ] Does this PR need regression testing of any feature / work flow?
 <!-- If the changes have bigger impact on any feature / work flow, do mention scope for regression testing -->
 
-[ ] Does it have any dependancies?
+- [ ] Does it have any dependancies?
 <!-- Mention dependancies like PR, Defect, Prerequisite setup, application, operators, etc -->
+
+###### Is this PR tested on all browsers?
+  - [ ] Chrome
+  - [ ] Firefox
+  - [ ] Safari
+  - [ ] Edge
+  - [ ] IE
+  
+ 
