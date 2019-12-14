@@ -4,7 +4,7 @@
 ### Root cause
 <!--Briefly describe the root cause & analysis of the problem-->
 
-## Solution Description
+### Solution Description
 <!--Describe your code changes in detail and explain the solution-->
 
 - [ ] Is U/X approved?
