@@ -1,4 +1,3 @@
-
 # [JIRA-ID](add JIRA link): User Story / Defect / Task Title
 <!--For e.g [ODC-100](https://jira.coreos.com/browse/ODC-100): Title of user story / defect / task -->
 
