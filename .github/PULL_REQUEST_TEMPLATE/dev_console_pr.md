@@ -22,3 +22,4 @@
 - [ ] Firefox
 - [ ] Safari
 - [ ] Edge
+- [ ] IE
