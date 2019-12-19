@@ -1,10 +1,10 @@
-## [JIRA-ID](add JIRA link): User Story / Defect / Task Title
+**[Fixes]:**
 <!--For e.g [ODC-100](https://jira.coreos.com/browse/ODC-100): Title of user story / defect / task -->
 
-## Root cause
+### Analysis / Root cause
 <!--Briefly describe the root cause & analysis of the problem-->
 
-## Solution Description
+### Solution Description
 <!--Describe your code changes in detail and explain the solution-->
 
 - [ ] Is U/X approved?
@@ -19,10 +19,9 @@
 - [ ] Does it have any dependancies?
 <!-- Mention dependancies like PR, Defect, Prerequisite setup, application, operators, etc -->
 
-## Is this PR tested on all browsers?
+### Is this PR tested on all browsers?
 
     - [ ] Chrome
     - [ ] Firefox
     - [ ] Safari
     - [ ] Edge
-    - [ ] IE
