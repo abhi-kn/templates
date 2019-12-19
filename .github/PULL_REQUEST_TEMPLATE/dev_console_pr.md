@@ -18,7 +18,7 @@
 
 **Browser conformance**: 
 <!-- To mark tested browsers, use [x] -->
-    - [ ] Chrome
-    - [ ] Firefox
-    - [ ] Safari
-    - [ ] Edge
+- [ ] Chrome
+- [ ] Firefox
+- [ ] Safari
+- [ ] Edge
