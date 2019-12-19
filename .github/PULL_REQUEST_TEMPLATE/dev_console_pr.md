@@ -1,5 +1,5 @@
-**Fixes**: 
-<!-- For e.g [Fixes]: https://issues.redhat.com/browse/ODC-XXX -->
+**Fixes** # 
+<!-- For e.g Fixes # https://issues.redhat.com/browse/ODC-XXX -->
 
 **Analysis / Root cause**: 
 <!-- Briefly describe analysis of US/Task or root cause of defect -->
@@ -18,7 +18,7 @@
 
 **Browser conformance**: 
 <!-- To mark tested browsers, use [x] -->
-    - [ ] Chrome
-    - [ ] Firefox
-    - [ ] Safari
-    - [ ] Edge
+- [ ] Chrome
+- [ ] Firefox
+- [ ] Safari
+- [ ] Edge
