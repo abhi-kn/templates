@@ -23,3 +23,4 @@
 - [ ] Safari
 - [ ] Edge
 - [ ] IE
+- [ ] Opera
